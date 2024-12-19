@@ -1,11 +1,7 @@
 <template>
-    <div class="bg-white h-fulls">
-        index.vue
+    <div>
+        <UContainer>
+            index.vue
+        </UContainer>
     </div>
 </template>
-
-<script>
-    export default {
-        
-    }
-</script>
